@@ -1,6 +1,6 @@
 ## Hello!
 
-I am RoyallyFlushed, or Royal for short. Some of my publicly released work is below. If you'd like to contact me, please reach out on Discord @ `Royal#1234`
+I am RoyallyFlushed, or Royal for short. Some of my publicly released work is below. If you'd like to contact me, please reach out on Discord @ `royallyflushed`
 
 ### About
 
