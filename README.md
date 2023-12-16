@@ -4,7 +4,9 @@ I am RoyallyFlushed, or Royal for short. Some of my publicly released work is be
 
 ### About
 
-I'm currently working as a Lead Developer for BloxByte Games' title "Ghost Simulator" with over 125M+ visits and 25K+ DAU *(Daily Active Users)*. I'm a Cyber Security & Forensic Computing Graduate with interests in backend systems, networking and security. I love learning how things work and why they work the way they do.
+I am currently working as a Programmer for Karta Creative! Assisting on many different projects for brands and creating quality content for Roblox players.
+
+I was formerly a Lead Developer for BloxByte Games' title "Ghost Simulator". I'm a Cyber Security & Forensic Computing Graduate with interests in backend systems, networking and security. I love learning how things work and why they work the way they do.
 
 
 <br/>
