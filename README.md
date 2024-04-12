@@ -12,7 +12,8 @@ I was formerly a Lead Developer for BloxByte Games' title "Ghost Simulator". I'm
 <br/>
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Sleitnick/Knit/main/logo/rounded/knit_logo_rounded_128.png" alt="lua" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
