@@ -4,9 +4,9 @@ I am RoyallyFlushed, or Royal for short. Some of my publicly released work is be
 
 ### About
 
-I am currently working as a Programmer for Karta Creative! Assisting on many different projects for brands and creating quality content for Roblox players.
+I am currently working as a Senior Software Engineer for Karta Creative! Creating many different projects for brands and creating quality content for Roblox players.
 
-I was formerly a Lead Developer for BloxByte Games' title "Ghost Simulator". I'm a Cyber Security & Forensic Computing Graduate with interests in backend systems, networking and security. I love learning how things work and why they work the way they do.
+I was formerly the Lead Developer for BloxByte Games' title 'Ghost Simulator'. I'm a Cyber Security & Forensic Computing Graduate with interests in backend systems, networking and security. I love learning how things work and why they work the way they do.
 
 
 <br/>
