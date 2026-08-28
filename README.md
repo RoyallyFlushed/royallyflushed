@@ -4,10 +4,11 @@ I am RoyallyFlushed, or Royal for short. Some of my publicly released work is be
 
 ### About
 
-I am currently working as the Lead Software Engineer for Karta Creative! Creating many different projects for brands and creating quality content for Roblox players.
+I'm a Cyber Security & Forensic Computing Graduate with interests in backend systems, networking and security. I love learning how things work and why they work the way they do.
 
-I was formerly the Lead Developer for BloxByte Games' title 'Ghost Simulator'. I'm a Cyber Security & Forensic Computing Graduate with interests in backend systems, networking and security. I love learning how things work and why they work the way they do.
-
+Current Senior Engineer @ Voldex on "Driving Empire"
+Former Lead Engineer @ Karta Creative
+Former Developer @ BloxByte Games on "Ghost Simulator"
 
 <br/>
 <h3 align="center">Languages and Tools</h3>
