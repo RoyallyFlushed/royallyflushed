@@ -6,9 +6,9 @@ I am RoyallyFlushed, or Royal for short. Some of my publicly released work is be
 
 I'm a Cyber Security & Forensic Computing Graduate with interests in backend systems, networking and security. I love learning how things work and why they work the way they do.
 
-Current Senior Engineer @ Voldex on "Driving Empire"
-Former Lead Engineer @ Karta Creative
-Former Developer @ BloxByte Games on "Ghost Simulator"
+- Current Senior Engineer @ Voldex on "Driving Empire"
+- Former Lead Engineer @ Karta Creative
+- Former Developer @ BloxByte Games on "Ghost Simulator"
 
 <br/>
 <h3 align="center">Languages and Tools</h3>
